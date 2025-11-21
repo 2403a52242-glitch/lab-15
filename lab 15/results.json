@@ -1,0 +1,14 @@
+[
+    {
+        "city": "Kar\u012bmnagar",
+        "temp": 23.85,
+        "humidity": 79,
+        "weather": "Clear sky"
+    },
+    {
+        "city": "New York",
+        "temp": 12.73,
+        "humidity": 60,
+        "weather": "Overcast clouds"
+    }
+]

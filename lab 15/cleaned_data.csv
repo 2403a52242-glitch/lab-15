@@ -1,0 +1,7 @@
+name,height,gender,weight,bp_systolic,bp_diastolic,height_m
+John Doe,180.0,Male,80,120.0,80.0,1.8
+Jane Smith,1.65,Female,65,130.0,85.0,1.7175
+Alice Jones,165.0,Male,55,110.0,70.0,1.65
+Bob Lee,5.9,Male,90,140.0,80.75,1.7175
+Chris Green,170.0,Other,70,127.0,80.75,1.7
+Sam Brown,172.0,Other,75,135.0,88.0,1.72

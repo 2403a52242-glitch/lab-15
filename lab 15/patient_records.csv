@@ -1,0 +1,7 @@
+patient_id,name,blood_pressure,height,gender,weight,height_cm
+1,John Doe,120/80,180 cm,M,80,180
+2,Jane Smith,130/85,1.65 m,F,65,
+3,Alice Jones,110/70,165,M,55,165
+4,Bob Lee,140,5.9 ft,M,90,
+5,Chris Green,,170 cm,Non-binary,70,170
+6,Sam Brown,135/88,172,Other,75,172
